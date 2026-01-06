@@ -11,7 +11,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://https://www.linkedin.com/in/lizaveta-dziakava-8a674a3a3/?trk=opento_sprofile_details/target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/@Eliza_Dzi target="_blank">
